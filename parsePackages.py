@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 
 def readPackageList(fname):
     dic_uidToPackage = {}
