@@ -49,5 +49,7 @@ def run_packagelist_with_monkey(packagenamelist):
 
 
 if __name__ == "__main__":
+    #s is the packagename 
+    # you could define your own 
     s = "inst"
     run_packagelist_with_monkey(s)
